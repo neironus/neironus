@@ -4,7 +4,7 @@
 [My_LinkedIn](https://www.linkedin.com/in/maksym-dakal/)
 
 General information
-- 1+ years of experience as DevOps engineer.
+- 2+ years of experience as DevOps engineer.
 - 10+ years of diverse experience in Linux, Windows, MacOS administration.
 - Working knowledge of networks and Internet functionality.
 - Proficient in project management and ticketing system, cloud services.
@@ -21,11 +21,11 @@ TECHNICAL SKILLS
 - Basic knowledge of AWS (EC2, ECS, VPC, S3, Route 53, IAM, Cloud 9, Lambda, SNS)
 - Experience with Virtualization VMware vCenter, VMware ESXi
 - Understanding of networking (routing, VPNs)
-- Experience with Docker
-- Basic experience with CI/CD concept (Jenkins)
+- Experience with Docker, Kubernetes
+- Basic experience with CI/CD concept (Jenkins, Gitlab CI)
 - Small experience with Terraform;
 - Project management and ticketing systems (Redmine, glpi, Jira)
-- Monitoring systems (Zabbix)
+- Monitoring systems (Zabbix, Prometheus, Grafana)
 - Operating systems (Linux, Windows, Mac OS X)
 
 PERSONAL SKILLS
